@@ -61,9 +61,9 @@ void test_cards()
 	  std::cerr << "Exception: " << e.what() << std::endl ;
     }
     std::cout << "--------- static of Card --------------" << std::endl ;
-    cout << Card::StringColors[TREFLE] << std::endl ;
-    cout << Card::StringValues[UN] << std::endl ;
-    cout << hand[3] << " vs " << hand[3].Getm_str() << std::endl ;
+    std::cout << Card::StringColors.at(TREFLE) << std::endl ;
+    std::cout << Card::StringValues[UN] << std::endl ;
+    std::cout << hand[3] << " vs " << hand[3].Getm_str() << std::endl ;
 }
 int main()
 {
