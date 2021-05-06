@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/card.h
+iostream
+-
+vector
+-
+map
+-
+
+D:/Github/Poker/main.cpp
+iostream
+-
+vector
+-
+stdexcept
+-
+algorithm
+-
+card.h
+D:/Github/Poker/card.h
+
+D:/Github/Poker/src/Card.cpp
+stdexcept
+-
+Card.h
+D:/Github/Poker/src/Card.h
+
