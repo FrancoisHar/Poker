@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\fdhar\OneDrive\Bureau\DOSSIER\ecole\adi\ADI 2\projet\poker\Poker\main.cpp(6,10): fatal error C1014: fichiers Include trop nombreux : profondeur = 1024
+  Card.cpp
+  JeuEssai.cpp
+C:\Users\fdhar\OneDrive\Bureau\DOSSIER\ecole\adi\ADI 2\projet\poker\Poker\src\JeuEssai.cpp(6,10): fatal error C1014: fichiers Include trop nombreux : profondeur = 1024
+  Génération de code en cours...

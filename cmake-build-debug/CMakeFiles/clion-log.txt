@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\fdhar\OneDrive\Bureau\DOSSIER\ecole\adi\ADI 2\projet\poker\Poker Select CMakeLists.txt

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1619014108 source:c:\users\yves\documents\_jobs\_clients\isen\adimaker - annee2020-21\adi2\c++\poker\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<algorithm>
+	"card.h"
+
+1619014243 source:c:\users\yves\documents\_jobs\_clients\isen\adimaker - annee2020-21\adi2\c++\poker\src\card.cpp
+	<stdexcept>
+	"Card.h"
+
+1619014218 c:\users\yves\documents\_jobs\_clients\isen\adimaker - annee2020-21\adi2\c++\poker\include\card.h
+	<iostream>
+	<vector>
+	<map>
+

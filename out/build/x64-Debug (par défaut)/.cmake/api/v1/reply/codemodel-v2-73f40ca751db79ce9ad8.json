@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Poker",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Poker::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Poker-Debug-0a3768a139b9ff9794ae.json",
+					"name" : "Poker",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/fdhar/OneDrive/Bureau/DOSSIER/ecole/adi/ADI 2/projet/poker/Poker/out/build/x64-Debug (par défaut)",
+		"source" : "C:/Users/fdhar/OneDrive/Bureau/DOSSIER/ecole/adi/ADI 2/projet/poker/Poker"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}
