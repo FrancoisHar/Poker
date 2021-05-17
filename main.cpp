@@ -12,6 +12,14 @@ void show_card(const Card& c) {  // function:
   std::cout << c << ", " ;
 }
 
+bool straight ()
+{
+ if
+ cout << "c'est une suite" << endl
+
+
+}
+
 void test_cards()
 {
     cout << "Start of test for Card class" << endl ;
