@@ -6,7 +6,7 @@
 #include <map>
 
 enum Colors { COEUR=67, CARREAU=75, PIQUE=80, TREFLE=84 } ;
-enum Values { UN=1, DEUX, TROIS, QUATRE, CINQ, SIX, SEPT, HUIT, NEUF, DIX, VALET, DAME, ROI, AS } ;
+enum Values { UN=1, DEUX , TROIS, QUATRE, CINQ, SIX, SEPT, HUIT, NEUF, DIX, VALET, DAME, ROI, AS } ;
 
 class Card
 {
