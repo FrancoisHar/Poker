@@ -43,7 +43,7 @@ void test_cards()
         hand.push_back(Card('P', ROI)) ;
         hand.push_back(Card('P', DAME)) ;
     }
-    catch(const std::invalid_argument& ia) {
+    catch(const std::invalid_argument& ia) {**
 	  std::cerr << "Invalid argument: " << ia.what() << std::endl ;
     }
     std::cout << "--------- hand (for const Card&) --------------" << std::endl ;
